@@ -9,6 +9,7 @@ const IndexPage = () => (
     width="100vw"
     overflow="hidden"
     spacing="15px"
+
   >
     <NavigationBar />
     <DetailContent />
